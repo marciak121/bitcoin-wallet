@@ -15,7 +15,7 @@
 # In any case, the unsigned APKs are written to the specified output
 # directory. Use `apksigner` to sign before installing via `adb install`.
 #
-
+beware
 FROM debian:bullseye-backports AS build-stage
 
 # install debian packages
