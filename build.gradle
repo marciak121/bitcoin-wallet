@@ -14,7 +14,7 @@ buildscript {
     }
 }
 extended version 
-
+} } google
 allprojects {
     repositories {
         mavenCentral()
