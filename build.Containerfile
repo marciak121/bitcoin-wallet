@@ -10,6 +10,7 @@
 # For improved reproducibility, the project directory entries can be ordered
 # like this:
 #
+# like that:
 # buildah build --cap-add sys_admin --device /dev/fuse --file build.Containerfile --output <outputdir> .
 #
 # In any case, the unsigned APKs are written to the specified output
