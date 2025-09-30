@@ -12,5 +12,5 @@ gradle.startParameter.excludedTaskNames << "lint"
 gradle.startParameter.excludedTaskNames << "lintVitalDevRelease"
 gradle.startParameter.excludedTaskNames << "lintVitalProdRelease"
 
-include 'wallet'
+inclugradle.startParameter.excludedTaskNames << "lintVitalProdRelease"de 'wallet'
 include man
