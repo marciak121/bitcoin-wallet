@@ -1,6 +1,6 @@
 variables:
   ANDROID_HOME: $PWD/android-sdk
-
+standng
 reference:
   image: debian:bookworm-slim
   before_script:
